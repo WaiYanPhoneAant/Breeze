@@ -4,4 +4,5 @@ A new Flutter project.
 
 ## Getting Started
 
-![276shots_so](https://github.com/user-attachments/assets/efb3357f-7383-43ad-af07-d96cd6efd27e)
+
+![276shots_so](https://github.com/user-attachments/assets/79e2e2ef-4338-4010-b30e-f686de751c95)
