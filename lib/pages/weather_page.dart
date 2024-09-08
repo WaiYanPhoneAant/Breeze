@@ -12,7 +12,7 @@ class WeatherPage extends StatefulWidget {
 
 class _WeatherPageState extends State<WeatherPage> {
   //api key
-  final _weatherService = WeatherService('1bee3c871916fe07515a2617a93ef817');
+  final _weatherService = WeatherService('apikey');
   WeatherModel? _weatherModel;
 
   //fetch weather
@@ -62,8 +62,8 @@ class _WeatherPageState extends State<WeatherPage> {
 
   @override
   Widget build(BuildContext context) {
-    // const textColor = Colors.black54;
-    const textColor = Colors.white;
+    const textColor = Colors.black54;
+    // const textColor = Colors.white;
     return Scaffold(
       body: Center(
         child: Column(

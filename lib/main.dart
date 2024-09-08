@@ -13,11 +13,11 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
         theme: ThemeData(
-          scaffoldBackgroundColor:
-              const Color(0xFF2F3542), // You can set the primary swatch here
-          appBarTheme: const AppBarTheme(
-            backgroundColor: Colors.blueGrey,
-          ),
+          // scaffoldBackgroundColor:
+          //     const Color(0xFF2F3542), // You can set the primary swatch here
+          // appBarTheme: const AppBarTheme(
+          //   backgroundColor: Colors.blueGrey,
+          // ),
         ),
         debugShowCheckedModeBanner: false,
         home: const WeatherPage());
